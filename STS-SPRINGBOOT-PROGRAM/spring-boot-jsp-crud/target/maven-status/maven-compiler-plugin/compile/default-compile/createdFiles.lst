@@ -1,0 +1,6 @@
+com\luminar\springbootjsp\SpringBootJspCrudApplication.class
+com\luminar\springbootjsp\repository\EmployeesRepository.class
+com\luminar\springbootjsp\controller\EmployeeController.class
+com\luminar\springbootjsp\service\EmployeeService.class
+com\luminar\springbootjsp\service\EmployeeServiceImpl.class
+com\luminar\springbootjsp\model\Employees.class
